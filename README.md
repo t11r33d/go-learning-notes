@@ -1,14 +1,14 @@
-# Go Learning Notes
+# Go Projects
 
-I am learning Golang in my free time and keeping notes here as I go.
+A collection of my Golang projects and exercises as I learn the language.
 
-## What's inside
-- Basic syntax and data structures
-- HTTP and JSON handling
-- Small tasks I solve to reinforce what I learn
+## Stack
+- Go
+- HTTP / REST
+- JSON
 
-## Goal
-I want to gradually move towards confident backend service development in Go.
+## Projects
+_Adding projects as I build them._
 
 ## Status
-Actively updated.
+In progress.
