@@ -13,7 +13,7 @@ I work through each topic, write code, and document what I understand.
 |-------|--------|
 | Maps: hash table & swiss table | ✅ |
 | Slices: internals and gotchas | ✅ |
-| Structs and interfaces | 🔲 |
+| Structs and interfaces | 🟡 |
 | Goroutines | 🔲 |
 | Channels and sync primitives | 🔲 |
 | Go scheduler (GMP model) | 🔲 |
@@ -24,8 +24,8 @@ I work through each topic, write code, and document what I understand.
 | Topic | Status |
 |-------|--------|
 | SQL / PostgreSQL (deep dive) | ✅ |
-| HTTP (net/http, REST) | 🔲 |
-| gRPC | 🔲 |
+| HTTP (net/http, REST) | 🟡 |
+| gRPC | 🟡 |
 | Kafka & RabbitMQ | 🔲 |
 | NoSQL: Redis & MongoDB | 🔲 |
 | Git | ✅ |
