@@ -1,14 +1,14 @@
 # Go Learning Notes
 
-РљРѕРЅСЃРїРµРєС‚ Рё РїСЂР°РєС‚РёРєР° РїРѕ Golang РІ СЃРІРѕР±РѕРґРЅРѕРµ РІСЂРµРјСЏ.
+Notes and exercises while learning Golang in my free time.
 
-## Р§С‚Рѕ РІРЅСѓС‚СЂРё
-- Р‘Р°Р·РѕРІС‹Р№ СЃРёРЅС‚Р°РєСЃРёСЃ Рё СЃС‚СЂСѓРєС‚СѓСЂС‹ РґР°РЅРЅС‹С…
-- Р Р°Р±РѕС‚Р° СЃ HTTP Рё JSON
-- РќРµР±РѕР»СЊС€РёРµ СѓС‡РµР±РЅС‹Рµ Р·Р°РґР°С‡Рё
+## What's inside
+- Basic syntax and data structures
+- HTTP and JSON handling
+- Small practice tasks
 
-## Р¦РµР»СЊ
-РџРѕСЃС‚РµРїРµРЅРЅРѕ РїРµСЂРµР№С‚Рё Рє СѓРІРµСЂРµРЅРЅРѕР№ СЂР°Р·СЂР°Р±РѕС‚РєРµ backend-СЃРµСЂРІРёСЃРѕРІ РЅР° Go.
+## Goal
+Gradually move towards confident backend service development in Go.
 
-## РЎС‚Р°С‚СѓСЃ
-Р’ Р°РєС‚РёРІРЅРѕР№ СЂР°Р·СЂР°Р±РѕС‚РєРµ.
+## Status
+Actively updated.
