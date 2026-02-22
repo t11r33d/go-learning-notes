@@ -11,8 +11,8 @@ I work through each topic, write code, and document what I understand.
 
 | Topic | Status |
 |-------|--------|
-| Maps: hash table & swiss table | 🔲 |
-| Slices: internals and gotchas | 🔲 |
+| Maps: hash table & swiss table | ✅ |
+| Slices: internals and gotchas | ✅ |
 | Structs and interfaces | 🔲 |
 | Goroutines | 🔲 |
 | Channels and sync primitives | 🔲 |
@@ -23,12 +23,12 @@ I work through each topic, write code, and document what I understand.
 
 | Topic | Status |
 |-------|--------|
-| SQL / PostgreSQL (deep dive) | 🔲 |
+| SQL / PostgreSQL (deep dive) | ✅ |
 | HTTP (net/http, REST) | 🔲 |
 | gRPC | 🔲 |
 | Kafka & RabbitMQ | 🔲 |
 | NoSQL: Redis & MongoDB | 🔲 |
-| Git | 🔲 |
+| Git | ✅ |
 | Fault tolerance: replicas, sharding | 🔲 |
 
 > 🔲 not started &nbsp; 🟡 in progress &nbsp; ✅ done
