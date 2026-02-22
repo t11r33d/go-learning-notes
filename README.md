@@ -1,14 +1,14 @@
 # Go Learning Notes
 
-Notes and exercises while learning Golang in my free time.
+I am learning Golang in my free time and keeping notes here as I go.
 
 ## What's inside
 - Basic syntax and data structures
 - HTTP and JSON handling
-- Small practice tasks
+- Small tasks I solve to reinforce what I learn
 
 ## Goal
-Gradually move towards confident backend service development in Go.
+I want to gradually move towards confident backend service development in Go.
 
 ## Status
 Actively updated.
